@@ -1,5 +1,3 @@
-"# Deep-Learning-Quant-Researcher" 
-
 ## Overview
 This project is a sophisticated stock price prediction tool that uses deep learning techniques to forecast future stock prices. It employs an LSTM (Long Short-Term Memory) neural network model and incorporates various technical indicators for enhanced prediction accuracy.
 
